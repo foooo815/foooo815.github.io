@@ -24,11 +24,11 @@ timezone: Asia/Taipei
 
 title: Foooo's Blog                    # the main title
 
-tagline: Blog of a software engineer   # it will display as the sub-title
+tagline: Impatient with actions. Patient with results.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A technical blog of a software engineer, sometimes with casual contents,
-  such as book reviews and investment techniques.
+  such as book reviews, working experiences, and investments. 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
